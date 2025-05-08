@@ -9,7 +9,7 @@ This repository implements a robust localization system for drones by fusing dat
 - Extended Kalman Filter (EKF) implementation for sensor fusion
 - Real-time pose estimation with low latency
 - Drift compensation mechanism for long-duration flights
-- ROS/ROS2 compatible nodes for seamless integration with drone control systems
+
 
 ## Technical Background
 Indoor drone localization presents significant challenges due to the unavailability of GPS signals. This project addresses these challenges by implementing a multi-sensor fusion approach:
@@ -25,8 +25,8 @@ Indoor drone localization presents significant challenges due to the unavailabil
 - Educational platforms for robotics and control systems
 
 ## Dependencies
-- C++/Python implementation
-- ROS/ROS2 framework support
+- Python implementation
+
 - Compatible with common IMU sensors (MPU9250, BMI088, etc.)
 - Works with UWB modules (DWM1000, DWM3000, etc.)
 
