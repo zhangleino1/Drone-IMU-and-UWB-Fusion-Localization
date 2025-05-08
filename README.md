@@ -26,7 +26,6 @@ Indoor drone localization presents significant challenges due to the unavailabil
 
 ## Dependencies
 - Python implementation
-
 - Compatible with common IMU sensors (MPU9250, BMI088, etc.)
 - Works with UWB modules (DWM1000, DWM3000, etc.)
 
